@@ -1,0 +1,4 @@
+renombrar el archivo .env-template a .env y completar info necesaria
+iniciar git ( git init )
+cd node-app && nmp i
+levantar contenedores docker compose up
